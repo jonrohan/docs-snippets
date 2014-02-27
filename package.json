@@ -1,0 +1,11 @@
+{
+  "name": "docs-snippets",
+  "main": "./index",
+  "version": "0.1.0",
+  "description": "Snippets for writing documentation in your code.",
+  "repository": "https://github.com/jonrohan/docs-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}

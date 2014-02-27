@@ -1,0 +1,37 @@
+".source.scss" :
+  "kss group" :
+    "prefix" : "//"
+    "body" : """
+      // A description of the whole styling group.
+      //
+      // :hover             - Subtle hover highlight.
+      // .class-name        - a class description.
+      //
+      // No Styleguide
+    """
+
+".source.css":
+  "kss group":
+    prefix: "/*"
+    body: """
+      /*
+      A description of the whole styling group.
+
+      :hover             - Subtle hover highlight.
+      .class-name        - a class description.
+
+      No Styleguide
+      */
+    """
+
+".source.less":
+  "kss group":
+    prefix: "//"
+    body: """
+      // A description of the whole styling group.
+      //
+      // :hover             - Subtle hover highlight.
+      // .class-name        - a class description.
+      //
+      // No Styleguide
+    """
