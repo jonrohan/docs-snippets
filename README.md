@@ -2,7 +2,11 @@
 
 Snippets for making documenting your code super fun!
 
-Current support:
+#### Installing
+
+run `apm install docs-snippets`
+
+#### Current Support:
 
 - [KSS](https://github.com/kneath/kss)
 
