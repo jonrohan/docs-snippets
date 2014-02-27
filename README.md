@@ -10,7 +10,7 @@ run `apm install docs-snippets`
 
 - [KSS](https://github.com/kneath/kss)
 
-`//` completes in `scss`, `css`, and `less` to
+`kss` completes in `scss`, `css`, and `less` to
 
 ```css
 // A description of the whole styling group.
