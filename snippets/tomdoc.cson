@@ -1,0 +1,14 @@
+".source.ruby" :
+  "Tomdoc skeleton" :
+    "prefix": "tom"
+    "body": """
+      # ${1:Public Internal Deprecated}: ${2:description}.
+      #
+      # ${3:argument} - ${4:argument description}
+      #
+      # Examples
+      #
+      #  ${5:example}
+      #
+      # ${6:returns/raises section}
+    """
