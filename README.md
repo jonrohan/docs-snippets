@@ -2,9 +2,15 @@
 
 Snippets for making documenting your code super fun!
 
-#### Installing
+#### Installation
 
-run `apm install docs-snippets`
+Run the following command:
+
+```sh
+apm install docs-snippets
+```
+
+Then reload your Atom.
 
 #### Current Support:
 
