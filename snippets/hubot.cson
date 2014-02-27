@@ -1,0 +1,27 @@
+".source.coffee" :
+  "Hubot Script skeleton" :
+    "prefix" : "hubot"
+    "body" : """
+      # Description:
+      #   ${1:A description of your Hubot Script}
+      #
+      # Commands:
+      #   hubot ${2:Your command trigger} - ${3:Description of what your command does}
+      #
+      # Author:
+      #   ${4:Your GitHub username}
+    """
+
+".source.js" :
+  "Hubot Script skeleton" :
+    "prefix" : "hubot"
+    "body" : """
+      // Description:
+      //   ${1:A description of your Hubot Script}
+      //
+      // Commands:
+      //   hubot ${2:Your command trigger} - ${3:Description of what your command does}
+      //
+      // Author:
+      //   ${4:Your GitHub username}
+      """
