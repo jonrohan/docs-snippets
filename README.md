@@ -38,3 +38,29 @@ run `apm install docs-snippets`
 #
 # Returns the duplicated String.
 ```
+
+- [Hubot Scripts](https://github.com/github/hubot-scripts/)
+
+`hubot` completes in `.coffee` and `.js` to
+
+```coffee
+# Description:
+#   A description of your Hubot Script
+#
+# Commands:
+#   hubot Your command trigger - Description of what your command does
+#
+# Author:
+#   Your GitHub username
+```
+
+```javascript
+// Description:
+//   A description of your Hubot Script
+//
+// Commands:
+//   hubot Your command trigger - Description of what your command does
+//
+// Author:
+//   Your GitHub username
+```
