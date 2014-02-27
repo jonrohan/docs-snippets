@@ -1,4 +1,4 @@
-".source.ruby" :
+".source.coffee, .source.ruby" :
   "Tomdoc skeleton" :
     "prefix": "tom"
     "body": """

@@ -1,15 +1,4 @@
-".source.scss" :
-  "KSS skeleton" :
-    "prefix" : "kss"
-    "body" : """
-      // ${1:A description of the whole styling group.}
-      //
-      // ${2:.class-name}        - ${3:a class description.}
-      //
-      // ${4:Styleguide version}
-    """
-
-".source.less" :
+".source.scss, .source.less" :
   "KSS skeleton" :
     "prefix" : "kss"
     "body" : """
@@ -21,7 +10,7 @@
     """
 
 ".source.css":
-  "KSS skeleton" :
+  "KSS skeleton for css" :
     "prefix": "kss"
     "body": """
       /*
