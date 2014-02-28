@@ -1,3 +1,9 @@
+# TomDoc comment snippet http://tomdoc.org/
+#
+# Examples
+#
+#  tom<tab>
+#
 ".source.coffee, .source.ruby" :
   "Tomdoc skeleton" :
     "prefix": "tom"

@@ -1,3 +1,10 @@
+# Comment formatting for https://github.com/github/hubot-scripts/
+# completes in `.coffee` and `.js`
+#
+# Examples
+#
+# `hubot<tab>`
+#
 ".source.coffee" :
   "Hubot Script skeleton" :
     "prefix" : "hubot"

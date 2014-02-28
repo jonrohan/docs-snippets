@@ -1,3 +1,9 @@
+# jsDoc snippet http://usejsdoc.org/
+#
+# Examples
+#
+#  `jsdoc<tab>`
+#
 '.source.js':
   'jsdoc':
     'prefix': 'jsdoc'

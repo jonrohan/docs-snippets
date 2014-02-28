@@ -1,3 +1,9 @@
+# EDoc snippet http://www.erlang.org/doc/apps/edoc/chapter.html
+#
+# Examples
+#
+#  `edoc<tab>`
+#
 '.source.erlang':
   'Erlang Edoc && Spec':
     'prefix': 'edoc'
