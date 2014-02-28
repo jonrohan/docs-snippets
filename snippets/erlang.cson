@@ -1,0 +1,7 @@
+'.source.erlang':
+  'Erlang Edoc && Spec':
+    'prefix': 'edoc'
+    'body': """
+      %% @doc ${1:A description of the whole styling group.}
+      -spec ${2:function_name}($3) -> ${4:ok}.
+    """
