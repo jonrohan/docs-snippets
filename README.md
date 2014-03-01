@@ -16,6 +16,7 @@ Then reload your Atom.
 
 | Format                                 | Tab-Prefix   | Extensions         |
 | -------------                          | :----------: | ------------------ |
+| [Appledoc](./snippets/appledoc.cson)   | `appledoc`   | .h, .m             |
 | [Erlang](./snippets/erlang.cson)       | `edoc`       | .erlang            |
 | [Hubot Scripts](./snippets/hubot.cson) | `hubot`      | .coffee, .js       |
 | [jsDoc](./snippets/jsdoc.cson)         | `jsdoc`      | .js                |
