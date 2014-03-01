@@ -1,0 +1,20 @@
+# appledoc snippet http://gentlebytes.com/appledoc/
+#
+# appledoc examples: https://github.com/tomaz/appledoc/blob/master/CommentsFormattingStyle.markdown
+#
+# Examples
+#
+#  `appledoc<tab>`
+#
+".source.h, .source.m" :
+  'appledoc':
+    'prefix': 'appledoc'
+    'body': """
+      /**
+      * ${1:Description of what this method does}
+      * 
+      * @param ${2:Parameter Name} ${3:Purpose of the parameter}
+      * 
+      * @return ${4:Explanation of this method's return value}
+      */
+    """
