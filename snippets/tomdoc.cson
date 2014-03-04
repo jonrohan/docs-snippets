@@ -3,9 +3,13 @@
 # Examples
 #
 #  tom<tab>
+#  tomm<tab>
+#  tomc<tab>
+#  tomi<tab>
+#  toma<tab>
 #
 ".source.coffee, .source.ruby" :
-  "Tomdoc skeleton" :
+  "Tomdoc method skeleton" :
     "prefix": "tom"
     "body": """
       # ${1:Public Internal Deprecated}: ${2:description}.
@@ -17,4 +21,34 @@
       #  ${5:example}
       #
       # ${6:returns/raises section}
+    """
+
+  "Tomdoc class/module skeleton":
+    "prefix": "tomm"
+    "body": """
+      # ${1:Public Internal Deprecated}: ${2:description}.
+      #
+      # Examples
+      #
+      #   ${3:example}
+    """
+
+  "Tomdoc constant skeleton":
+    "prefix": "tomc"
+    "body": """
+      # ${1:Public Internal Deprecated}: ${2:description}.
+    """
+
+  "Tomdoc constructor skeleton":
+    "prefix": "tomi"
+    "body": """
+      # ${1:Public Internal Deprecated}: ${2:description}.
+      #
+      ## ${3:argument} - ${4:argument description}
+    """
+
+  "Tomdoc attribute skeleton":
+    "prefix": "toma"
+    "body": """
+      # ${1:Public Internal Deprecated}: ${2:Gets/Sets property}.
     """
