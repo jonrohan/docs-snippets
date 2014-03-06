@@ -44,7 +44,7 @@
     "body": """
       # ${1:Public Internal Deprecated}: ${2:description}.
       #
-      ## ${3:argument} - ${4:argument description}
+      # ${3:argument} - ${4:argument description}
     """
 
   "Tomdoc attribute skeleton":
