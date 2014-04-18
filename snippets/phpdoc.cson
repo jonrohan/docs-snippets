@@ -1,0 +1,19 @@
+# phpDoc snippet
+#
+# Examples
+#
+#  `phpdoc<tab>`
+#
+'.source.php':
+  'phpdoc':
+    'prefix': 'phpdoc'
+    'body': """
+      /**
+       * ${1:Description of what this does.}
+       *
+       * @param     $2
+       * @return    void
+       * @author    $3
+       * @copyright $4
+       */
+    """
