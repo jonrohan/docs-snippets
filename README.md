@@ -21,4 +21,5 @@ Then reload your Atom.
 | [Hubot Scripts](./snippets/hubot.cson) | `hubot`      | .coffee, .js       |
 | [jsDoc](./snippets/jsdoc.cson)         | `jsdoc`      | .js                |
 | [KSS](./snippets/kss.cson)             | `kss`        | .css, .less, .scss |
+| [PHPDoc](./snippets/phpdoc.cson)       | `phpdoc`     | .php               |
 | [TomDoc](./snippets/tomdoc.cson)       | `tom`        | .coffee, .rb       |
