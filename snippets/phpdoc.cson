@@ -4,7 +4,7 @@
 #
 #  `phpdoc<tab>`
 #
-'.source.php':
+'.source.hack, .source.php':
   'phpdoc':
     'prefix': 'phpdoc'
     'body': """
