@@ -1,5 +1,7 @@
 ## Docs Snippets
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jonrohan/docs-snippets.svg)](https://greenkeeper.io/)
+
 Snippets for making documenting your code super fun!
 
 #### Installation
